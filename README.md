@@ -1,5 +1,5 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+# GrillMaster
+
+A full stack web application to create, plan and host cookouts. Allows users to log in, create cookouts as events complete with menus and guestlists.
+
+Created with Java, Spring, PostgreSQL, Vue.JS.
